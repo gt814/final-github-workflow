@@ -10,3 +10,4 @@ git push --tags
 
 # Start a container from DockerHub.
 docker pull --platform linux/x86_64 gt814/final-github-workflow:v1.0.0
+docker run --platform linux/x86_64 gt814/final-github-workflow:v1.0.0
